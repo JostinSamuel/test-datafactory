@@ -1,0 +1,9 @@
+{
+	"name": "demoJostinDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbd6382a-0477-45c8-9ee4-252606b34a51",
+		"tenantId": "0e0cb060-09ad-49f5-a005-68b9b49aa1f6"
+	}
+}
